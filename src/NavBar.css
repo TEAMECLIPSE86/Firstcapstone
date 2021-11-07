@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    
+}
+
+.gmail {
+    margin-right: 25px;
+}
+
+.gmail a {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.gmail a:hover {
+    text-decoration: underline;
+}
+
+.images {
+    margin-right: 25px;
+   
+}
+
+.images  a {
+    
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.images  a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+    margin-right: 25px;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 5px 5px;
+    background-color: rgb(164, 164, 201);
+}
+
+.btn:hover {
+    background-color: rgb(103, 103, 146);
+}
