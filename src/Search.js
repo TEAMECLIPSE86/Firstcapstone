@@ -26,7 +26,7 @@ const Search = () => {
           <button className="two">I'm Feeling lucky</button>
         </div>
       </div>
-      <div><p>Google offered in: <a href="#">Hausa</a> <a href="#">Igbo</a> <a href="#">Èdè Yorùbá</a>  <a href="#">Nigerian Pidgin</a></p></div>
+      <div><p>Google offered in: <a href="https://www.google.com/setprefs?sig=0_006LNXauex81XDMKaF3DmPyjM7Q%3D&hl=ha&source=homepage&sa=X&ved=0ahUKEwiIj_Pilon0AhW1wosBHX5rCIQQ2ZgBCA4">Hausa</a> <a href="https://www.google.com/setprefs?sig=0_006LNXauex81XDMKaF3DmPyjM7Q%3D&hl=ig&source=homepage&sa=X&ved=0ahUKEwiIj_Pilon0AhW1wosBHX5rCIQQ2ZgBCA8">Igbo</a> <a href="https://www.google.com/setprefs?sig=0_006LNXauex81XDMKaF3DmPyjM7Q%3D&hl=yo&source=homepage&sa=X&ved=0ahUKEwiIj_Pilon0AhW1wosBHX5rCIQQ2ZgBCBA">Èdè Yorùbá</a>  <a href="https://www.google.com/setprefs?sig=0_006LNXauex81XDMKaF3DmPyjM7Q%3D&hl=pcm&source=homepage&sa=X&ved=0ahUKEwiIj_Pilon0AhW1wosBHX5rCIQQ2ZgBCBE">Nigerian Pidgin</a></p></div>
     </div>
   );
 };
